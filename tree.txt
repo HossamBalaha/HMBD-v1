@@ -2,6 +2,7 @@ Folder PATH listing for volume Ginat H2
 Volume serial number is 8ED6-D14E
 D:.
 |   Dataset Template v1.pdf
+|   folders.txt
 |   README.md
 |   tree.txt
 |   
